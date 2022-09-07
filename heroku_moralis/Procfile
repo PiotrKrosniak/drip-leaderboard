@@ -1,2 +1,2 @@
-web: python moralis_update_1.py
-worker: python moralis_update_1.py 
+web: python manage.py
+worker: python manage.py 
