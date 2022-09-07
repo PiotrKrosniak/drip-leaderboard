@@ -1,0 +1,2 @@
+web: python moralis_update_1.py
+worker: python moralis_update_1.py 
